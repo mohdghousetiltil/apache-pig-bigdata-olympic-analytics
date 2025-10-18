@@ -1,0 +1,1001 @@
+id,full_name,gender,height,weight
+1,"A Dijiang",M,180,80
+2,"A Lamusi",M,170,60
+3,"Gunnar Nielsen Aaby",M,0,0
+4,"Edgar Lindenau Aabye",M,0,0
+5,"Christine Jacoba Aaftink",F,185,82
+6,"Per Knut Aaland",M,188,75
+7,"John Aalberg",M,183,72
+8,"Cornelia "Cor"" Aalten (-Strannood)"",F,168,0
+9,"Antti Sami Aalto",M,186,96
+10,"Einar Ferdinand "Einari"" Aalto"",M,0,0
+11,"Jorma Ilmari Aalto",M,182,77
+12,"Jyri Tapani Aalto",M,172,70
+13,"Minna Maarit Aalto",F,159,56
+14,"Pirjo Hannele Aalto (Mattila-)",F,171,65
+15,"Arvo Ossian Aaltonen",M,0,0
+16,"Juhamatti Tapio Aaltonen",M,184,85
+17,"Paavo Johannes Aaltonen",M,175,64
+18,"Timo Antero Aaltonen",M,189,130
+19,"Win Valdemar Aaltonen",M,0,0
+20,"Kjetil Andr Aamodt",M,176,85
+21,"Ragnhild Margrethe Aamodt",F,163,0
+22,"Andreea Aanei",F,170,125
+23,"Fritz Aanes",M,187,89
+24,"Nils Egil Aaness",M,0,0
+25,"Alf Lied Aanning",M,0,0
+26,"Agnes Erika Aanonsen (-Eyde)",F,169,65
+27,"Johan Aantjes",M,0,0
+28,"Jan-Erik Aarberg",M,170,77
+29,"Willemien Aardenburg",F,0,0
+30,"Pepijn Aardewijn",M,189,72
+31,"Evald rma (rman-)",M,174,70
+32,"Olav Augunson Aarnes",M,0,0
+33,"Mika Lauri Aarnikka",M,187,76
+34,"Jamale (Djamel-) Aarrass (Ahrass-)",M,187,76
+35,"Dagfinn Sverre Aarskog",M,190,98
+36,"Stefan Remco Aartsen",M,194,78
+37,"Ann Kristin Aarnes",F,182,64
+38,"Karl Jan Aas",M,0,0
+39,"Lars Thorlaksn Aas",M,0,0
+40,"Roald Edgar Aas",M,0,0
+41,"Rolf Aas",M,0,0
+42,"Thomas Valentin Aas",M,0,0
+43,"Morten Gjerdrum Aasen",M,185,75
+44,"Meelis Aasme",M,182,73
+45,"Hakon Aasns",M,0,0
+46,"Hans Aasns",M,194,93
+47,"Erling Rudolf Aastad",M,177,74
+48,"Abdelhak Aatakni",M,0,64
+49,"Moonika Aava",F,168,65
+50,"Arvi Aavik",M,185,106
+51,"Nstor Abad Sanjun",M,167,64
+52,"Patrick Abada",M,189,80
+53,"Talaat Abada",M,172,58
+55,"Antonio Abadia Beci",M,170,65
+56,"Ren Abadie",M,0,0
+57,"Borislav Abadzhiev",M,176,66
+59,"Ivan Nikolov Abadzhiev",M,164,71
+60,"Mikhail Abadzhiev",M,172,75
+61,"Stefan Abadzhiev",M,175,72
+62,"Giovanni Abagnale",M,198,90
+63,"Jos Luis Abajo Gmez",M,194,87
+64,"M'Bairo Abakar",M,0,0
+65,"Patimat Abakarova",F,165,49
+67,"Mariya Vasilyevna Abakumova (-Tarabina)",F,179,80
+68,"Pablo Martn Abal",M,178,76
+69,"Tamara Abalde Daz",F,185,72
+70,"Jess Iory Aball Martnez",M,167,65
+71,"Juan Antonio Aball Delgado",M,172,82
+72,"Aleksey Aleksandrovich Abalmasov",M,180,83
+73,"Luc Abalo",M,182,86
+74,"Mara Laura Abalo",F,182,73
+75,"Giorgos Abalof",M,178,70
+76,"Jouan Patrice Abanda Etong",M,185,82
+77,"Antoine Abang",M,166,75
+78,"Salim Abanoz",M,0,0
+79,"Carlos Abarca Gonzlez",M,0,0
+80,"Jos Mara Abarca Plotas",M,186,83
+81,"Georgios Abaris",M,190,77
+82,"Enrique Abaroa Martnez",M,183,75
+83,"Carlos Arturo Abarza Chavez",M,0,0
+84,"Stephen Anthony Abas",M,165,55
+85,"Alejandro Abascal Garca",M,181,82
+86,"Jos Manuel Abascal Gmez",M,182,67
+87,"Rost'om Omeris dze Abashidze",M,188,97
+88,"Nunu Dzhansuhivna Abashydze (-Myslaieva)",F,168,105
+89,"Rodrigo Abasolo",M,0,0
+90,"Tamila Rashidovna Abasova",F,163,60
+91,"Emanuele Abate",M,190,80
+92,"Ignazio Abate",M,180,73
+93,"Jol Marc Abati",M,190,85
+94,"Ral Abatte",M,0,0
+95,"Georgia Abatzidou",F,155,43
+96,"Carlos Rodolfo Abaunza Balladares",M,168,60
+97,"Carlos Alberto Abaunza",M,180,70
+98,"Hctor Abaunza",M,169,75
+99,"Pter Abay",M,181,79
+100,"Oszkr Abay-Nemes",M,0,0
+101,"Adeyemi Abayomi",M,170,51
+103,"Silvano Abba",M,0,0
+104,"Gana Abba Kimet",M,0,0
+105,"Ilyas Abbadi",M,175,75
+106,"Agostino Abbagnale",M,188,96
+107,"Carmine Abbagnale",M,182,90
+108,"Giuseppe Abbagnale",M,187,97
+109,"Abdul Latif Al-Sayed Abbas Youssef Hashem",M,176,64
+110,"Abubakar Abbas Abbas",M,175,66
+111,"Aqarab Abbas",M,190,88
+112,"Aziz Abbas",M,169,67
+113,"Bassim Abbas Kati Al-Ogaili",M,175,80
+114,"Essa Abbas Faleh Hashem",M,160,65
+115,"Ghulam Abbas",M,181,74
+116,"Hosni Mohamed Abbas",M,0,60
+117,"Maher Abbas",M,178,78
+118,"Mahmoud Abbas",M,165,65
+119,"Mohamed Fakhry Rifaat Abbas",M,0,0
+120,"Mohammed Abbas Sabih",M,170,70
+121,"Muhammad Abbas",M,168,55
+122,"Nader Sufyan Abbas",M,173,77
+123,"Sohail Abbas",M,178,80
+124,"Youssef Mohamed Abbas",M,0,0
+125,"Zulkifli Abbas",M,170,62
+126,"Forough Abbasi",F,164,58
+127,"Shakeel Abbasi",M,165,60
+128,"Soulmaz Abbasi Azad",F,173,60
+129,"Ruslan Abbasov",M,181,74
+130,"Tural Abbasov",M,182,76
+131,"Tran Abbasova",F,159,53
+132,"Simona Abbate",F,171,64
+134,"Christian Abbiati",M,192,90
+135,"Lois Abbingh",F,178,72
+136,"Alessandro Abbio",M,195,85
+137,"Giordano Giulio Abbondati",M,175,64
+138,"Salwan Jasim Abbood Abbood",M,180,104
+140,"William "Bill"" Abbott Jr."",M,172,80
+141,"Clare Abbott",F,167,58
+142,"David "Dave"" Abbott"",M,183,75
+143,"Desmond "Des"" Abbott"",M,184,87
+144,"Geoffrey Grant Abbott",M,179,80
+145,"Jeremy Abbott",M,175,70
+146,"Jeremy Abbott",M,179,71
+147,"Joanne Abbott",F,160,57
+148,"Kathryn "Katie"" Abbott"",F,164,63
+149,"Mara Katherine Abbott",F,163,52
+150,"Margaret Ives Abbott (-Dunne)",F,0,0
+151,"Mary Perkins Ives Abbott (Perkins-)",F,0,0
+152,"Matt Abbott",M,185,91
+153,"Monica Cecilia Abbott",F,191,88
+154,"Khadija Abbouda",F,165,57
+155,"Mohamed Ibrahim Abd El-Fatah Mohamed",M,185,98
+156,"Mahmoud Abd El-Kader",M,195,94
+157,"Mohamed Ibrahim Abd El-Salam",M,192,83
+158,"Noha Abd Rabo",F,0,0
+159,"Reem Wa'il Abdalazem Abdalazem El-Bossaty",F,167,60
+160,"Ali Abdalla Afringi",M,163,57
+161,"Hossam Abdalla",M,203,97
+162,"Hosam Abdallah",M,0,0
+164,"Maged Abdallah",M,0,0
+165,"Nia Nicole Abdallah",F,175,56
+166,"Omari Abdallah",M,168,57
+168,"Younis Abdallah Rabee",M,169,68
+169,"Raida Abdallah Bader",F,158,49
+170,"Maha Abdalsalam Gouda",F,172,61
+171,"Mahmoud Abdel Aziz",M,174,70
+172,"Mohamed Abdel Ellah",M,168,68
+174,"Ali Mohamed Badawi Abdel Fattah Badawi",M,0,0
+175,"Abdelgani Hassan Abdel Fattah",M,0,0
+177,"Mohamed Abdel Fattah",M,174,69
+178,"Sayed Abdel Gadir",M,180,56
+180,"Heba Abdel Gawad",F,154,48
+181,"Sara Abdel Gawad",F,153,46
+182,"Gamal Amin Abdel Ghani",M,0,0
+184,"Ragy Abdel Hady",M,186,100
+185,"Osman Abdel Hafeez",M,0,0
+187,"Moustafa Ali Abdel Halim",M,152,52
+188,"Mohamed Abdel Hamed",M,193,82
+191,"Tamer Mohamed Abdel Hamid",M,0,0
+192,"Ahmed El-Sayed Abdel Hamid Mobarak",M,189,85
+193,"Dorri Abdel Kader Said",M,0,0
+195,"Mohamed Ali Abdel Kerim",M,0,81
+196,"Mohamed Abdel Khaled",M,183,76
+197,"Abdel Latif Abdel Latif",M,172,68
+198,"Walid Abdel Maksoud",M,0,0
+199,"Amir Abdel Meguid",M,178,67
+200,"Mohamed Abdel Mohamed",M,0,0
+201,"Karim Abdel Mohsen",M,188,92
+202,"Awad Abdel Nabi Awad",M,198,80
+203,"Ahmed Abdel Naeim",M,197,87
+204,"Moustafa Abdel Naser",M,176,74
+205,"Ali Abdel Radi",M,0,0
+206,"Amin Abdel Rahman",M,0,0
+207,"Mohamed Fathallah Abdel Rahman",M,0,0
+208,"Fathi Ali Abdel Rahman",M,0,0
+210,"Khaled Abdel Rahman",M,188,79
+211,"Sameh Abdel Rahman",M,0,0
+212,"Yasser Abdel Rahman Sakr",M,180,120
+213,"Samy Abdel Razek",M,170,60
+214,"Mohamed Youssef Abdel Razik",M,0,0
+215,"Ibrahim Ahmed Abdel Rehim",M,190,83
+216,"Kamal Abdel Rehim",M,190,95
+217,"Reskalla Mohamed Abdel Rehim",M,165,48
+218,"Ahmed Ali Abdel Samad",M,195,95
+219,"Ali Abdel Sami",M,0,0
+221,"Sameh Abdel Waress Muhammad",M,0,0
+222,"Mohamed Said Abdel Wehab",M,157,48
+223,"Mahmoud Abdel-Aal",M,0,0
+225,"Shaimaa Abdel-Latif-Hashad",F,165,57
+227,"Ahmed Abdelaal",M,188,89
+228,"Mahmoud Abdelaal",M,176,60
+229,"Mohamed Ali Abdelaal",M,175,81
+231,"Mahmod Abdelaly",M,0,0
+232,"Ibrahim Ramadan Ibrahim Abdelbaki",M,173,77
+233,"Aziza Abdelfattah",F,159,51
+234,"Abdalla Abdelgadir El-Sheikh",M,170,58
+235,"Magdi Abdelghani Sayed Ahmed",M,0,0
+236,"Ragab Abdelhay Saad Abdelrazek Abdallah",M,170,94
+237,"Ben Ahmed Abdelkrim",M,0,0
+238,"Mohamed Abdellah",M,170,70
+239,"Ayoub Abdellaoui",M,184,68
+240,"Leila Abdelmoez",F,160,46
+241,"Sayed Abdelmonem Sayed Hamed",M,170,60
+242,"Ahmed Abdelrahman",M,165,60
+243,"Ihab Abdelrahman El-Sayed Abdelrahman",M,194,96
+244,"Raouf Abdelraouf",M,167,63
+245,"Abouelfetoh Abdelrazek",M,0,0
+246,"Mamdouh Abdelrehim",M,207,90
+247,"El-Hachemi Abdenouz",M,170,63
+248,"Rda Abdenouz",M,170,63
+249,"Mouni Abderrahim",F,173,60
+250,"Saeid Morad Abdevali",M,170,80
+251,"Bashir Abdi",M,176,56
+252,"Youcef Abdi",M,178,66
+253,"Jamal Abdi Hassan Abdullah",M,177,65
+254,"Talal Omar Abdillahi",M,170,57
+255,"Mahmoud Ahmed Abdin",M,0,0
+256,"Abdihakim "Abdi"" Abdirahman"",M,178,61
+257,"Ali Abdo",M,169,74
+258,"Hamza Abdo",M,0,0
+259,"Reema Abdo",F,173,59
+261,"Nasrollah Abdollahi",M,183,75
+262,"Yhyacinthe Mewoli Abdon",M,176,60
+263,"Hassane Abdou",M,185,67
+264,"Justin Abdou",M,175,85
+265,"Moustafa Ahmed Ismail Abdou Ali Arfah",M,0,0
+266,"Raouf Abdou",M,165,60
+267,"Mohamed Abdou El-Souad",M,180,76
+268,"Brahim Daoud Abdoulaye",M,0,71
+269,"Fawziya Abdoulkarim",F,180,67
+270,"Alaa El-Din Abdoun",M,188,78
+271,"Ibrahim Abdrabbou",M,0,0
+272,"Berik Abdrakhmanov",M,165,60
+273,"Maizurah Abdul Rahim",F,147,50
+274,"Mehdi Fahim Abdul Al-Sada",M,184,70
+275,"Bashir Abdullah Abdul Aziz",M,180,73
+276,"Chairil Anwar Abdul Aziz",M,163,61
+277,"Shaimaa Abdul Aziz",F,160,53
+278,"Mohamed Abdul Hadj",M,0,0
+279,"Jefri Kiko Bolkiah Abdul Hakeem",M,172,90
+280,"Mohamed Abdul Hamid",M,175,55
+282,"Hadi Abdul Jabbar",M,180,118
+283,"Mohamed Abed Abdul Jawad",M,169,65
+284,"Anouar Abdul Kader",M,0,0
+286,"Abdul Aziz Hassan Al-Hadba Abdul Karim Abdul Kareem",M,169,60
+287,"Taha Abdul Karim",M,156,59
+288,"Masoud Abdul Khamis Al-Rahman",M,176,68
+289,"Abdul Haji Abdul Latheef",M,168,54
+290,"Fatima Abdul Majeed Hameed Al-Kirashi",F,0,0
+291,"Majed Ahmed Abdul Mohamed",M,172,70
+292,"Firouz Abdul Mohammadian",M,178,74
+293,"Hussam Abdul Rahman",M,175,80
+295,"Suleman Abdul Rahman",M,174,55
+296,"Zambrose Abdul Rahman",M,173,64
+297,"Lala Abdul Rashid",M,169,91
+298,"Muhammad Abdul Rashid",M,181,72
+299,"Dana Abdul Razak (Hussain-)",F,163,56
+304,"Rauf Abdul Seoud",M,0,0
+305,"Samir Ahmed Abdul Shakour",M,180,72
+306,"Nabil Abdul Tahlak",M,0,0
+307,"Fahmi Ahmed Abdul Wahab Al-Tahri",M,0,0
+308,"Mohamed Abdul Wahab Al-Salah",M,0,0
+309,"Qazi Abdul Waheed",M,0,0
+310,"Patmawati Abdul Wahid",F,158,58
+311,"Haidar Abdul-Amir Hassan",M,185,80
+312,"Haidar Abdul-Razzaq Hassan",M,175,75
+313,"Lawal Kolawole "Kola"" Abdulai"",M,172,66
+314,"Rukayatu "Ruky"" Abdulai"",F,180,59
+315,"Mona Ahmad Abdulaziz Hassanein",F,166,61
+316,"Zagalav Abdulbekovich Abdulbekov",M,160,62
+317,"Roosevelt M. Abdulgafur",M,181,73
+318,"Ahmed Abdulkareem Ahmed",M,0,0
+319,"Gamal Ahmed Abdulla",M,0,0
+320,"Mohamed Sayed Abdulla",M,0,0
+321,"Ahmad Hassan Abdullah",M,164,55
+322,"Ahmed Ghanim Abdullah",M,184,79
+323,"Aquil Hashim Abdullah (Shumate-)",M,187,83
+324,"Atallah Abdullah",M,0,88
+325,"Magdy Ahmed Abdullah",M,0,0
+329,"Osama Abdullah",M,0,0
+330,"Tewfik Abdullah",M,0,0
+331,"Wan Azlan Abdullah",M,188,77
+332,"Zarinah Abdullah",F,0,0
+334,"Abubakar Sadiq Abdullahi",M,0,0
+335,"Abdulqdir Abdullayev",M,188,91
+336,"Arif Yadulla Abdullayev",M,164,60
+337,"Mukhammad Kadyr Abdullayev",M,169,63
+338,"Muminzhon Abdullayev",M,190,130
+339,"Namiq Yadulla Abdullayev",M,167,55
+340,"Laye Abdullayeva",F,170,47
+341,"lqar Abdulov",M,175,74
+342,"Abdullah Abdulrahman Zeyab",M,177,0
+343,"Abir Abdulrahman Khalil Mahmoud Khalil",F,162,72
+344,"Amer Abdulrahman Abdallah Hussain Al-Hammadi",M,168,68
+345,"Omar Abdulrahman Ahmad Al-Raaqi Al-Amoudi",M,168,62
+346,"Shaza Yahia Nazih Abdulrahman El-Sayed",F,170,59
+347,"Najim Abdulrazak Al-Enazy",M,150,60
+348,"Zeyad Abdulrazak Al-Khudhur Al-Enazy",M,181,66
+349,"Waheed Abdulridha Waheed Karaawi",M,178,74
+350,"Mohamed Abdultwab Ibrahim Abd El-Baki",M,162,69
+351,"Julius Shareef Abdur-Rahim",M,202,104
+352,"Sherzod Abdurahmonov",M,178,73
+353,"Rasul Abduraim",M,183,74
+354,"Bekzod Makhamadzhonovich Abdurakhmonov",M,172,74
+355,"Mukhamadmurod Abdurakhmonov",M,192,117
+356,"Adlan Aliyevich Abdurashidov",M,172,60
+357,"Yusup Abdusalomov",M,170,84
+359,"Andrey Khakimovich Abduvaliyev",M,190,125
+360,"Dzhamolidin Mirgarifanovich Abduzhaparov",M,174,72
+361,"Aybek Abdymomunov",M,162,54
+362,"Isao Ko Abe",M,177,75
+363,"Kazumi Abe",M,178,67
+364,"Kazuo Abe",M,166,69
+365,"Kinya Abe",M,168,68
+366,"Kiyoshi Abe",M,167,62
+367,"Masashi Abe",M,175,64
+368,"Naoki Abe",M,173,68
+369,"Osamu Abe",M,0,0
+370,"Shigeaki Abe",M,178,70
+371,"Shinnosuke Abe",M,179,91
+372,"Sanshiro "Sonny"" Abe"",M,166,57
+373,"Tadashi Abe",M,190,80
+374,"Tadatoshi Abe",M,170,60
+375,"Wakako Abe",F,168,60
+376,"Yoshiyuki Abe",M,175,67
+377,"Yuki Abe",M,177,75
+379,"Addis Abebe",M,160,50
+380,"Biruk Abebe",M,173,62
+381,"Benaissa Abed",M,170,51
+382,"Soha Abed Elaal",F,0,0
+383,"Mojtaba Abedini Shormasti",M,180,83
+384,"Thophile Abega Mbida",M,0,0
+385,"Max "Xam"" Abegglen"",M,0,0
+386,"Alexandre Abeid",M,194,92
+387,"Sonia Abejn Esteban",F,169,48
+388,"Abel Carlos da Silva Braga",M,190,73
+389,"Adolf Gaston Abel",M,0,0
+390,"Brooke Abel",F,163,52
+391,"Clarence John Abel",M,185,102
+392,"George Gordon Abel",M,0,0
+393,"Gnther Abel",M,183,80
+394,"Irene Abel",F,160,48
+395,"Jennifer Abel",F,160,62
+396,"Katja Abel",F,165,55
+397,"Mara Abel Diguez",F,163,46
+398,"Roger Abel",M,0,0
+399,"Egil Sten Abel",M,0,0
+400,"Yaritza Abel Rojas",F,0,62
+401,"Abelardo Fernndez Antua",M,0,0
+402,"Arthur Abele",M,184,85
+403,"Ruth Abeles",F,153,48
+404,"Louis Grenville "Lou"" Abell"",M,0,0
+405,"Jos Javier Abella Fanjul",M,176,66
+406,"Ramn Neptuno Abella Caside",M,0,0
+407,"Ral Daniel Abella",M,0,0
+408,"Alfonso Abelln Lpez",M,174,63
+409,"Juan Luis Abelln Pallahi",M,0,0
+410,"Edwige Marie Abna Fouda",F,173,61
+411,"Gezahgne Abera",M,166,58
+412,"Tesfaye Abera Dibaba",M,192,68
+413,"Hugo Ral Aberastegui",M,186,84
+414,"Arvid berg",M,0,0
+415,"Bjrn Olof Conny berg",M,181,76
+416,"Nils Georg berg",M,181,78
+417,"Sara Helena berg",F,190,73
+418,"Karl Konrad berg",M,0,0
+419,"Majken berg",F,170,60
+420,"Olof Viktor "Olle"" berg"",M,181,78
+421,"Mohamed Aberhoune",M,187,75
+422,"Julianne "Anne"" Abernathy"",F,165,75
+423,"Michael Brent Abernathy",M,182,84
+424,"Moira Abernethy (-Ford)",F,0,0
+425,"Salim Abes",M,0,0
+426,"Edme Abetel (-Barr)",F,0,0
+427,"Pasqualino Abeti",M,173,66
+428,"Elvan Abeylegesse",F,159,40
+429,"Ruwani Abeymanne",F,160,53
+430,"Matthew Duncan Abeysinghe",M,180,74
+431,"Narek Abgaryan",M,166,52
+432,"Koutoua Francis Abia",M,180,80
+433,"Pablo Abin Vicen",M,177,68
+434,"David Abibssira",M,179,63
+435,"Silke Abicht",F,156,46
+436,"Haithem Abid",M,179,72
+437,"Younis Abid Sadkhan",M,0,0
+438,"Jaiye Abidoye",M,0,0
+439,"Sagat Abikeyeva",F,160,78
+440,"Mitsuhiro Abiko",M,169,62
+441,"Tomomi Abiko",F,173,53
+442,"Catherine "Kate"" Abilla Awino"",F,162,56
+443,"Ismail Abilov (-Nizamolu)",M,172,82
+444,"Camille Anne Franoise Abily",F,168,60
+445,"Endurance Abinuwa",F,159,54
+446,"Bode Abiodun",M,170,68
+447,"Firmin Abissi",M,159,54
+448,"Sarah Abitbol",F,150,43
+449,"Inga Eduardovna Abitova",F,164,58
+450,"Ceyhun Abiyev",M,163,48
+451,"Diana Monteiro Abla",F,175,75
+452,"Enver Nazymovych Ablaiev",M,169,68
+453,"Leslie Ablett",M,0,0
+454,"Edgar Allen "Ed"" Ablowich"",M,182,68
+455,"Denis Mikhaylovich Ablyazin",M,161,62
+456,"Karin Abma",F,174,62
+457,"Thorine Christelle Aboa Mbeza",F,182,78
+458,"Felix Ahmed Aboagye",M,176,70
+459,"Bukola Dammy Abogunloko",F,170,53
+460,"Viktor Andreyevich Aboimov",M,190,78
+461,"Mohamed Aboker",M,175,61
+462,"Ilze bola",F,169,60
+463,"Agnese boltia",F,166,60
+464,"Abdul Razzak Aboobakur",M,168,59
+465,"Matthew "Matt"" Abood"",M,197,92
+466,"Piroska Abos Gvorgyzakab",F,0,0
+467,"Jean-Pierre Abossolo-Ze",M,0,0
+468,"Abdelhalim Muhammad Abou",M,210,88
+469,"Tarek Abou Al Dahab",M,170,64
+470,"Bachir Hani Abou Assi",M,175,74
+471,"Ashraf Abou El-Hassan",M,186,86
+472,"Galal El-Din Abdel Meguid Abou El-Kheir",M,0,0
+473,"Magdy Abou El-Magd",M,188,85
+474,"Essameldin Abou El-Nein",M,205,102
+475,"Abdel Khlik Abou El-Yazi",M,0,0
+476,"Mohamed Moustafa Abou Elea",M,168,54
+477,"Mahmoud Abou Elelaa",M,181,76
+478,"Mohammed Tawfiq Abou Habaga",M,0,0
+479,"Zaid Abou Hamed",M,182,79
+480,"Youssef Kamel Mohamed Abou Ouf",M,0,0
+481,"Gaber Mooti Abou Zeid",M,187,82
+482,"Taher Abou Zeid Sayid Amer",M,0,0
+483,"Ahmed Farid Abou-Shadi",M,0,0
+484,"Abdel Fattah Abou-Shanab",M,0,0
+485,"Sadoon Mohamed Aboub",M,170,48
+486,"Zakaria Aboub",M,171,65
+488,"Ibrahim Mohamedin Aboubaker",M,190,65
+489,"Ahmed Ghmin Aboud",M,170,51
+490,"Fathi Khalifa Aboud",M,175,75
+491,"Kamel Aboud",M,178,67
+493,"Rabah Aboud",M,180,64
+494,"Mamdouh Taha Al-Husseini Abouebaid",M,183,85
+495,"Alaaeldin Ahmad El-Sayyid Abouelkassem",M,188,87
+496,"Haysam Farouk Abouelw",M,0,0
+497,"Waguih Rauf Aboul Seoud",M,0,0
+498,"El-Sayed Aboumedan",M,178,81
+499,"Dany Abounaoum",M,0,0
+500,"Sdonoud Janvier Abouta",M,0,0
+501,"Mohamed Mohamed Mohamed Aboutrika",M,182,77
+503,"Adeola Aboyade-Cole",M,193,78
+504,"Cheryl Abplanalp",F,174,68
+505,"Alexander "Alex"" Abraham (Steglitz)"",M,186,84
+506,"Andrei Abraham",M,0,0
+507,"Attila brahm",M,192,88
+509,"Gary Abraham",M,175,64
+510,"Melita Isidora Abraham Schssler",F,170,62
+511,"Tadesse Abraham",M,178,61
+512,"Shiny Kurisingal Abraham-Wilson",F,167,53
+513,"Mariola Teresa Abrahamczyk (-Fronckowiak)",F,180,70
+514,"Ara Abrahamian",M,191,84
+515,"Stphan Abrahamian Gonzalez",M,0,0
+516,"Clyde Abrahams",M,178,68
+517,"Glen Abrahams Martnez",M,179,72
+518,"Guy A. Abrahams",M,173,65
+519,"Harold Maurice Abrahams",M,183,75
+520,"Sidney Solomon Abrahams",M,0,0
+521,"Isak Abrahamsen",M,0,0
+522,"Knut Leo Abrahamsen",M,0,0
+523,"Trond Sevg Abrahamsen",M,183,87
+524,"Donald Robert Abrahamson, Jr.",M,162,67
+525,"Richard Neal Abrahamson",M,190,88
+526,"Kurt Christer Abrahamsson (-Abris)",M,187,77
+527,"Erik Adolf Efraim Abrahamsson",M,172,61
+528,"Karl Gran Abrahamsson",M,180,72
+529,"Karl Gustaf Emanuel Abrahamsson",M,0,0
+530,"Ulf Thommy Abrahamsson",M,185,81
+531,"Fletcher Abram, Jr.",M,193,87
+532,"Iason Abramashvili",M,176,82
+533,"Yelena Vasilyevna Abramchuk (Kopets-)",F,182,95
+534,"Oleksandr Volodymyrovych Abramenko",M,180,82
+535,"Yevgeny Sergeyevich Abramenko",M,181,80
+536,"Lahcen Abrami",M,0,0
+537,"Ek'aterina Abramia",F,167,43
+538,"Jernej Abrami",M,175,70
+539,"Levan Abramishvili",M,181,84
+540,"Andrey Vasilyevich Abramov",M,180,100
+541,"Andrey Viktorovich Abramov",M,176,70
+542,"Nikolay Kuzmich Abramov",M,164,59
+543,"Pavel Sergeyevich Abramov",M,198,89
+544,"Sergey Mikhaylovich Abramov",M,180,94
+545,"Valery Aleksandrovich Abramov",M,173,61
+546,"Inna Vladimirovna Abramova",F,172,63
+547,"Nelli Mikhaylovna Abramova",F,171,60
+548,"Yekaterina Konstantinovna Abramova",F,167,65
+549,"Alen Abramovi",M,180,72
+550,"Dmitry Vladimirovich Abramovich",M,182,96
+551,"Aliyah Abrams",F,163,53
+552,"Colin Winston Abrams",M,180,70
+553,"John Charles Abrams",M,183,0
+554,"Benik Abramyan",M,186,115
+555,"Antnio da Cunha Meneses Martins Abrantes",M,176,68
+556,"Arnaldo Lus Isaas Abrantes",M,183,72
+557,"Arnaldo Joaquim Castro Abrantes",M,174,68
+558,"David Abrard",M,187,81
+559,"Tsvetelina Abrasheva",F,0,0
+560,"Amir Abrashi",M,172,70
+561,"Thomas Abratis",M,184,73
+562,"Pawe Abratkiewicz",M,183,84
+563,"Diogo Ferreira Tribolet de Abreu",M,183,73
+564,"Eloy Abreu Morales",M,160,54
+565,"Glauclio Serro Abreu",M,185,75
+566,"Jos Filipe Abreu",M,159,64
+567,"Emilio Julio Abreu",M,0,0
+568,"Morais Santos Abreu",M,188,73
+569,"Paulo Francisco Joazeiro de Abreu",M,176,78
+570,"Pedro Abreu Pascal",M,200,88
+571,"Rubn Abreu Rivero",M,177,71
+572,"Rui Pinto de Abreu",M,177,64
+573,"Franck Abrial",M,174,68
+574,"rika Abril Surez",F,164,52
+575,"Laura Valentina Abril Restrepo",F,162,50
+576,"Alejandro "lex"" Abrines Redondo"",M,198,93
+577,"Knut Richard brink",M,0,0
+578,"Bourhan Abro",M,180,70
+579,"Anastasiya Aleksandrovna Abrosimova",F,164,51
+580,"Svetlana Olegovna Abrosimova",F,188,77
+581,"Elisabeta Abrudeanu",F,0,0
+582,"Saypulla Atavovich Absaidov",M,168,68
+583,"Julien Absalon",M,180,68
+584,"Ayele Abshero Biza",M,168,62
+585,"Brian Kenneth Abshire",M,180,59
+586,"Tobias Abstreiter",M,178,85
+587,"Gudrun Maria Abt",F,178,61
+588,"Aleksandr Viktorovich "Sasha"" Abt"",M,179,68
+589,"Najmeh Abtin",F,160,57
+590,"Mohamed Abu Abdullah",M,173,74
+591,"Abdul Wahab Abu Al-Hail Labid",M,180,79
+592,"Mohamed Ahmed Abu Ali",M,0,0
+593,"Methkal Marouf Abu Drais",M,168,67
+594,"Lailin Abu Hassan",M,0,0
+595,"Majed Abu Maraheel",M,180,76
+596,"Maher Abu Rmilah",M,172,72
+598,"Omar Abu-Fares",M,178,69
+599,"Bektas Abubakirov",M,165,54
+600,"Nagmeldin Ali Abubakr",M,172,63
+601,"Sanna Abubkheet",F,157,52
+602,Abudoureheman,M,182,75
+603,"Juma Abudu",M,170,59
+604,"Folashade "Shade"" Abugan"",F,150,64
+605,"Fernando J. Abugattas Aboino",M,190,80
+606,"Roberto Abugattas Aboino",M,182,77
+607,"Hamza Abughalia",M,0,85
+608,"Ahmad Abughaush",M,178,68
+609,"Fartun Abukar Omar",F,170,58
+610,"Ginko Abukawa-Chiba",F,148,46
+611,"Mohammed Abukhousa",M,170,67
+612,"Mohammad Abulibdeh",M,183,68
+613,"Kariman Abuljadayel",F,180,70
+614,"Jos Manuel Abundis Sandoval",M,177,72
+615,"Abdullah Abuqrais",M,163,65
+616,"Shigeru Aburaya",M,163,51
+617,"Cristobal Alejandro Aburto Tinoco",M,161,60
+618,"Aleksandr Veniaminovich Abushakhmetov",M,189,81
+619,"Magomedgasan Mingazhutdinovich Abushev",M,170,62
+620,"Kanat Kalizhanovich Abutalipov",M,168,56
+621,"Anas Sameer N. H. Abuyousuf",M,181,77
+622,"Ali Abuzamia",M,185,80
+623,"Irina Alekseyevna Abysova",F,175,56
+625,"E. Doan Acarbay",M,0,0
+626,"Alain Acart",M,175,67
+627,"Andreea Roxana Acatrinei",F,150,40
+628,"Jacques Accambray",M,194,125
+629,"William Accambray",M,194,104
+630,"Anna Accensi Abella",F,0,0
+631,"Ezio Acchini",M,0,0
+632,"Mario Acchini",M,0,0
+633,"Martina Accola",F,170,62
+634,"Paul Accola",M,176,82
+635,"Alfredo Accorsi",M,0,0
+636,"Enrique Accorsi Teuthorn",M,0,0
+637,"Eusebio Acea Colarte",M,190,95
+638,"Raidel Acea Morales",M,0,0
+639,"Domingo Gmez-Acedo Villanueva",M,0,0
+640,"Carmen Acedo Jorge",F,0,0
+641,"Jos Aceituno",M,167,58
+642,"Ervin S. Acel",M,0,0
+643,"Marco Acerbi",M,190,74
+644,"Claudia Acerenza Marez",F,160,55
+645,"Elmer ngel Acevedo",M,0,0
+646,"Anibl Santiago Acevedo",M,176,67
+647,"Eyne Acevedo Tabares",M,0,67
+648,"Fabio Acevedo",M,171,70
+649,"Fernando Acevedo Portugues",M,175,65
+650,"Javier Carlos Acevedo",M,182,68
+651,"Jos Eduardo Acevedo Herrera",M,179,65
+652,"Nicole Jocelin Acevedo Tangarife",F,166,70
+653,"Sharon Evelin Acevedo Tangarife",F,170,61
+654,"Daniel Aceves Villagrn",M,158,52
+655,"Roberto Aceves Villagrn",M,165,64
+656,"David Laurence Acfield",M,178,73
+657,"Mohamed Ali Acha-Cheloi",M,165,68
+658,"Jaouad Achab",M,175,64
+659,"Mustapha Achab",M,0,0
+660,"Karem Faride Achach Ramrez",F,169,60
+661,"Emilio Achacoso",M,178,78
+662,"Loreto Achaerandio Snchez-Marn",F,164,50
+663,"Sharath Kamal Achanta",M,186,85
+664,"Kieron Robert Achara",M,208,110
+665,"Gilbert Achard-Picard",M,0,0
+666,"Aziz Acharki",M,180,68
+667,"Benjamin "Ben"" Acheampong"",M,161,62
+668,"Gemma Acheampong",F,163,54
+669,"Joachim Yaw Acheampong",M,181,73
+670,"Alfred Achermann",M,176,75
+671,"Ghassan Achi",M,168,60
+672,"Wilson Achia",M,167,52
+673,"Abdel Hak Achik",M,165,54
+674,"Mohamed Abdelhak Achik",M,174,57
+675,"Onochie Lawrence "Larry"" Achike"",M,188,75
+677,"Georges Achille-Fould",F,0,0
+678,"Jacob Hendrik "Jack"" Achilles"",M,182,98
+679,"Ioan Valeriu Achiriloaie",M,183,87
+680,"Rita Nikolayevna Achkina",F,168,63
+681,"Janet Achola",F,167,52
+682,"Julius Achon",M,168,55
+683,"Natalie Chioma Achonwa",F,190,86
+684,"Ahmed Mohamed Achouche",M,191,110
+685,"Dallal Merwa Achour",F,176,45
+686,"Khaled Achour",M,177,82
+687,"Haykel Al-Achouri",M,184,84
+688,"Said Achtar",M,0,0
+689,"Roger Achten",M,171,62
+690,"Chantal Achterberg",F,172,72
+691,"Assumpta Achuo-Bei",F,159,55
+692,"James Dudley "Jim"" Achurch"",M,0,0
+693,"Gabriel Achy Assi",M,166,61
+694,"Oliver M. Acii",F,167,55
+695,"Ricardo Augusto Amaral Acioly",M,179,78
+697,"Fausto Alesio Acke (Padovini-)",M,0,0
+698,"Paul Douglas Ackerley",M,179,68
+699,"Charles Edwin "Charley"" Ackerly"",M,0,0
+700,"Nathaniel Leedom "Nate"" Ackerman"",M,173,74
+701,"Georg Ackermann",M,191,75
+702,"Ronny Ackermann",M,184,69
+703,"Marianne "Marjan"" Ackermans-Thomas"",F,180,70
+704,"Dsir Antoine Acket",M,0,0
+705,"Donat Acklin",M,190,99
+706,"Guido Acklin",M,200,104
+707,"Urban Acman",M,180,83
+708,"Alberto Enrique Acosta Palma",M,0,0
+709,"Asuncin Acosta Galano",F,169,52
+710,"Bryan Josu Acosta Ramos",M,175,74
+711,"Carlos Acosta",M,0,0
+712,"Hctor H. Acosta",M,180,81
+713,"Jos Eugenio Acosta",M,173,73
+714,"Juan Acosta Umazabal",M,0,0
+715,"Julio Csar Acosta Gonzlez",M,160,62
+716,"Lautaro Germn Acosta",M,168,72
+717,"Leopoldo Acosta",M,185,61
+718,"Luis Angel Acosta",M,180,73
+719,"Luz Mercedes Acosta Valdez",F,164,63
+720,"Marcelo Alberto Acosta Jimnez",M,0,0
+721,"Mara Jos Acosta Acosta",F,172,69
+722,"Mariano Acosta",M,0,0
+723,"Osmay Acosta Duarte",M,188,91
+724,"Pedro Javier Acosta Snchez",M,188,78
+725,"Roslandy del Valle Acosta Alvarado",F,190,62
+726,"Tanya Acosta",F,182,70
+727,"Martn Ral Acosta y Lara Daz",M,0,0
+728,"George Wilson Acquaah",M,0,0
+729,"Robert Acquafresca",M,184,70
+730,"Edward Acquah",M,188,82
+731,"Oliver Acquah",M,177,82
+732,"Samuel "Sam"" Acquah"",M,178,72
+733,"Ilona cs (-Zimmermann)",F,0,0
+734,"Otto Mnsted Acthon",M,0,0
+735,"Benjamin Maxwell "Ben"" Acton"",M,0,0
+736,"Brigitte Acton (-Smith)",F,168,63
+737,"Amelia Lynn "Amy"" Acuff (-Harvey)"",F,188,66
+738,"Crox Ernesto Acua Rodrguez",M,192,89
+739,"Jorge Acua",M,173,50
+740,"ngel "Mudo"" Acua Lizana"",M,0,0
+741,"Ricardo Acua",M,0,0
+742,"Roberto Acua",M,208,109
+743,"Arslanbek Aylow",M,177,75
+744,"Jzsef Aczl (-Eisenhoffer)",M,0,0
+745,"Kazimierz Piotr Adach",M,162,60
+746,"Goro Adachi",M,156,56
+747,"Kiyoshi Adachi",M,179,60
+748,"Mariko Adachi",F,162,51
+749,"Miho Adachi",F,165,58
+750,"Seiya Adachi",M,172,67
+751,"Takumi Adachi",M,168,67
+752,"Yumi Adachi",F,160,0
+753,"Yurie Adachi",F,156,51
+754,"Craig Robert Adair",M,187,81
+755,"Ali Enver Adakan",M,186,100
+756,"Adalberto Pereira da Silva",M,189,105
+759,"Ahmed Adam",M,162,60
+760,"Constantin Adam",M,202,105
+761,"Gal Adam",M,190,80
+762,"Gordon Belgum "Gordy"" Adam"",M,0,0
+763,"Herman Adam Negrete",M,180,71
+764,"Idrissa Adam",M,178,79
+765,"Jean-Paul Adam",M,0,0
+766,"Ji Adam",M,187,83
+768,"Joseph Adam",M,172,70
+769,"Leonie Adam",F,162,54
+770,"Marcus Adam",M,182,82
+771,"Marianne Adam",F,183,85
+772,"Michael B. "Mike"" Adam"",M,175,95
+773,"Moustafa Adam",M,173,71
+774,"Nicolas Dominique "Nic"" Adam"",M,0,0
+775,"Otto Adam",M,0,0
+776,"Paul Adam",M,0,0
+777,"Pierre Louis Eugne Adam",M,0,0
+778,"Sndor dm",M,0,0
+779,"Shuaib Adam",M,175,80
+780,"Tony Adam",M,169,61
+781,"Ahmed Adam Salah",M,154,64
+782,"Samba Adama",M,175,82
+783,"Stefan Adamczak",M,175,73
+784,"Matthias Adamczewski",M,187,77
+785,"Dariusz Adamczuk",M,179,78
+786,"Adam Eucharyst Adamczyk",M,173,80
+787,"Edward Adamczyk",M,190,83
+788,"Lubo Adamec",M,184,77
+789,"Petr Adamec",M,187,87
+790,"Mara Teresa Adames",F,160,52
+791,"Luigi Adami",M,0,0
+792,"Jina Adamikov-Pelcov",F,173,62
+793,"Panagiotis Adamidis",M,0,0
+794,"Janusz Andrzej Adamiec",M,176,74
+795,"Tomasz Adamiec",M,171,70
+796,"Sabine Heidrun Adamik (Picken-, -Bothe)",F,172,68
+797,"Zoltn Adamik",M,175,71
+798,"Pirouz Adamiyat",M,190,80
+799,"Nafissatou Moussa Adamou",F,172,72
+800,"Georgi Mirchev Adamov",M,173,64
+801,"Tatyana Pavlovna Adamovich",F,163,54
+802,"Tadeusz Ralf Adamowski",M,177,70
+803,"Anne Wilma Adams (-King)",F,165,54
+804,"Antoine Xavier Adams",M,180,79
+805,"April Jane Adams",F,0,0
+806,"Bartlett S. "Bart"" Adams"",M,0,0
+807,"Benjamin Willard "Ben"" Adams"",M,188,78
+808,"Robert "Bob"" Adams"",M,0,0
+809,"Brian Adams",M,183,67
+810,"Bridget Shirley Adams (-Bengough)",F,0,0
+811,"Natalie Cammile Adams (-Brannan)",F,173,65
+812,"David Dixie Adams",M,188,79
+813,"Edgar Holmes Adams",M,0,0
+815,"Francis "Frank"" Adams"",M,169,68
+817,"Gerard "Gerry"" Adams"",M,177,70
+818,"Harry Lester Adams",M,0,0
+819,"John E. Adams",M,178,95
+820,"Judith C. "Judi"" Adams"",F,0,0
+821,"Keith Adams",M,167,75
+822,"Lennox Adams",M,0,0
+823,"Liam Adams",M,178,64
+824,"Luke Kendall Adams",M,189,70
+825,"Lynda Riley Adams (-Hunt)",F,0,0
+826,"Lyukman Rasakovich Adams",M,194,87
+827,"Mareike Adams",F,174,73
+828,"Maureen Adams",F,169,68
+829,"Morgan Orlando Adams, Jr.",M,0,0
+830,"Adrian Neil Adams",M,178,78
+831,"Nelson Luis Adams",M,0,81
+832,"Nicola Virginia Adams",F,164,51
+833,"Odalys Adams Castillo",F,171,59
+834,"Paul Adams",M,185,98
+835,"Phillip Maxwell "Phil"" Adams"",M,163,93
+836,"Platt Adams",M,188,78
+837,"Rachael Alexis Adams",F,188,81
+838,"Ralph Andrew Adams",M,170,56
+839,"Robert P. Adams",M,188,85
+840,"Victoria "Vicki"" Adams"",F,164,69
+841,"Walter Adams",M,172,67
+842,"Wayman Elbridge Adams",M,0,0
+844,"William Edward "Willie"" Adams"",M,198,93
+845,"Birgitta Ann-Agnes "Bride"" Adams-Ray"",F,0,0
+846,"Valerie Kasanita Adams-Vili (-Price)",F,193,120
+847,"Morten Gundro Adamsen",M,181,84
+848,"Antoni Adamski",M,179,74
+849,"Filip Kamil Adamski",M,189,87
+850,"Herbert Adamski",M,0,0
+851,"Jerzy Adamski",M,171,58
+852,"Tadeusz Adamski",M,0,0
+853,"Per Anders Adamson",M,177,68
+854,"Derrick Adamson",M,177,72
+855,"James Nicholas "Nick"" Adamson"",M,183,74
+856,"Per Owe Adamson",M,171,65
+857,"Gsta Napoleon Adamsson",M,0,0
+858,"Charles Adamu",M,170,81
+859,"Mamudu Adamu",M,0,0
+860,"Dariusz Adamus",M,185,94
+861,"Jos Carlos Adn Arias",M,166,57
+862,"Nenita Adan",F,160,49
+863,"Aboukar Hassan Adani",M,165,59
+864,"Yasemin Adar",F,180,75
+865,"Juan Bautista Adarraga Elizarn",M,183,0
+866,"Orhan Ada",M,0,0
+867,"Christopher Thomas "Chris"" Adcock"",M,183,80
+868,"Frances "Fran"" Adcock"",F,178,72
+869,"Gabrielle Marie "Gabby"" Adcock (White-)"",F,167,0
+870,"William Arthur "Bill"" Adcocks"",M,168,55
+871,"Berkane Lakhdar Adda",M,178,78
+873,"Mehdi Addadi",M,179,70
+874,"Edith Addams de Habbelinck (-Lutjens, -Taylor, -Bel Geddes)",F,0,0
+875,"Jenny Marie Beatrice Addams",F,0,0
+876,"Jean Renaud Adde",M,181,70
+877,"Yannick Adde",M,195,115
+878,"Hamida Addche",M,164,56
+879,"Corran Descy Addison",M,170,65
+880,"Roy Addison",M,177,75
+881,"Joseph "Joe"" Addo"",M,182,81
+882,"Simon Addo",M,180,79
+883,"Charles Addo-Odametey",M,170,67
+885,"Robert Charles "Bob"" Addy"",M,191,76
+886,"Ebenezer Charles O. Addy",M,178,70
+887,"James Aryee Addy",M,183,75
+888,"Jangy McKinley Addy",M,188,88
+889,"Mercy Addy",F,161,58
+890,"Winifred Addy",M,0,0
+891,"William Harold Ade",M,0,0
+892,"Peter Adeberg",M,185,75
+893,"Ulrike Adeberg (-Spielmann)",F,170,60
+894,"James Adede",M,162,92
+895,"Adegboyega Folaranmi Adedoyin",M,0,0
+896,"Olubayo Adefemi",M,181,82
+897,"Lawrence Adegbeingbe",M,181,66
+898,"Stephen Adebisi Gbadegesin "Steve"" Adegbite"",M,186,77
+899,"Adewale Adegbusi",M,0,67
+900,"Oluwakemi 'Kemi' Adekoya",F,166,63
+901,"Amos Ojo Adekunle",M,140,48
+902,"Odunayo Folasade Adekuoroye",F,169,53
+903,"Carolyn Adel",F,163,52
+904,"Gun Margareta del (-Nilsson)",F,163,52
+906,"Peter Adelaar",M,213,135
+907,"Irfan Adelbi",M,185,90
+908,"Ayodele "Dele"" Adeleye"",M,190,80
+909,"Andr Adelheim",M,177,70
+910,"Hugh Jean "Danny"" Adeline"",M,0,0
+911,"Antoine Adelisse",M,178,65
+912,"Beatrice Adelizzi",F,175,67
+913,"Marcel Louis Ernest Alfred Charles Albert Adelon",M,0,0
+914,"Lambert Adelot",M,0,0
+915,"Abrar Osman Adem",M,168,58
+916,"Biko Adema",M,177,85
+917,"Joost Adema",M,202,91
+918,"Ademir Roque Kaefer",M,179,74
+919,"Hoche Yaya Aden",M,180,47
+920,"Ibrahim Mohamed Aden Gedi",M,178,75
+921,"Jama Awil Aden",M,176,69
+922,"Jama Mohamed Aden",M,180,68
+923,"Olapade Charles Adeniken",M,186,78
+924,"Aminat Oluwafunmilayo Adeniyi",F,165,58
+925,"Adenzia Aparecida Ferreira da Silva",F,187,65
+926,"Esau Adenji",M,177,70
+927,"Margaret Adetutu Adeoye",F,162,65
+928,"Alfred Ader",M,166,60
+929,"Berhane Adere Debala",F,170,50
+930,"Hanns Aderhold",M,0,0
+931,"Nyakisi Adero",F,0,0
+932,"Ademola Adeshina",M,0,0
+933,"Adsio Alves Machado",M,0,0
+934,"Adeoye Adetunji",M,174,71
+935,"Adevaldo Virglio Netto",M,0,0
+936,"Isiaq Adeyanju",M,162,65
+938,"Cary Glen Adgate",M,173,74
+939,"Kamal Bahadur Adhikari",M,163,69
+940,"David Adiele",M,174,0
+941,"Paul Adiga",M,176,74
+942,"Moriam Seun Adigun",F,153,52
+943,"Arman Adikyan",M,168,66
+944,"Haydy Morsy Adil",F,168,58
+945,"Mirza Adil",M,177,73
+946,"Adel Mohamed Adili",M,176,65
+947,"Adilson de Freitas Nascimento",M,195,88
+948,"Hammed Adio",M,185,63
+949,"Antonio R. Adipe Marrone",M,0,0
+950,"Ilana Adir (-Kamarshik)",F,165,58
+951,"Evelyn Adiru",F,162,50
+952,"Badathala Adisekhar",M,0,53
+953,"Franck Adisson",M,180,70
+954,"Adiyasambuu Tsolmon",F,165,65
+955,"Jikirum Adjaluddin",M,0,0
+956,"Richard "Richy""  Adjei"",M,190,110
+957,"Sammi Adjei",M,0,0
+959,"Christian Donfack Adjoufack",M,175,80
+960,"Amanda Jo Adkins (-Schneider)",F,173,61
+961,"Bradley Don "Brad"" Adkins"",M,188,80
+962,"Charles "Chuck"" Adkins"",M,0,0
+963,"Derrick Ralph Adkins",M,188,80
+964,"Robert Edward "Bob"" Adlard"",M,0,0
+965,"Alan Adler",M,186,80
+966,"Daniel Adler",M,180,72
+967,"Egon Adler",M,172,62
+968,"Margarete "Grete"" Adler"",F,0,0
+969,"Harry Herchel Adler",M,0,0
+970,"Lena Kristina Adler",F,162,56
+971,"Uwe Adler",M,182,77
+972,"Herman Aleksandrovich Adlerberg",M,0,0
+973,"Gregor Nils Henric Adlercreutz",M,0,0
+974,"Nils August Domingo Adlercreutz",M,0,0
+975,"Anna Mrtha Vilhelmina Adlerstrhle (von Oelreich-)",F,0,0
+976,"Jonna Eva-Maj Adlerteg",F,153,38
+977,"Erik William Adlerz",M,0,0
+978,"Mrta Elvira Adlerz (-Hermansson)",F,0,0
+979,"Hans Adlhoch",M,177,70
+980,"Rebecca "Becky"" Adlington"",F,179,70
+981,"Katrin Adlkofer",F,177,62
+982,"Hamdi Adly El-Seoudi Ibrahim",M,194,82
+984,"Jane Admans",F,165,53
+985,"Megra Admassou",M,177,65
+986,"Adriana Johanna Jacoba Admiraal-Meijerink",F,0,0
+987,"Khadour Adnan",M,173,81
+989,"Gadi Ado",M,173,61
+991,"Christopher Silas Adolf",M,168,59
+992,"Josef Adolf",M,0,0
+993,"Ruth Adolf",F,165,56
+995,"Jan Erik Adolfsen",M,0,0
+996,"Karl Tage Herbert Adolfsson",M,182,72
+997,"Lars Olof Melker Adolfsson",M,183,81
+998,"ke Ronnie Adolfsson",M,180,77
+999,"Sune Roland Adolfsson",M,180,74
+1000,"Dainius Adomaitis",M,202,100
+1001,"Svajnas Adomaitis",M,175,55
+1002,"Daniel Adomako",M,170,69
+1003,"Lena Annika Adomat",F,162,56
+1004,"Aurimas Adomaviius",M,204,100
+1005,"Neil Isaac Adonis",M,182,93
+1007,"Istvn Adorjn",M,0,0
+1008,"Jnos Adorjn",M,192,83
+1009,"William Adornado",M,187,77
+1010,"Jean-Luc Adorno",M,180,64
+1011,"Omar Adorno",M,160,51
+1012,"Rubn Adorno Melndez",M,190,91
+1013,"Barthelmy Adoukonu",M,160,55
+1014,"Martin Natchaba Adouna",M,167,68
+1015,"Conrad Adriaenssens",M,0,0
+1017,"Nathan Ghar-Jun Adrian",M,198,100
+1018,"Vera Adrian",F,168,57
+1019,"Selvyana Adrian-Sofyan",F,151,52
+1020,"Adriana Aparecida dos Santos",F,180,61
+1021,"Eduardo "Bto"" Adriana"",M,176,120
+1022,"Sharnol Leonard Adriana",M,185,95
+1023,"Adriana "Adrianinha"" Moiss Pinto"",F,170,65
+1024,"Elisngela Maria Adriano",F,180,96
+1025,"Attila Adrovicz",M,189,87
+1026,"Carlos Adsera Puig",M,173,72
+1027,"Mark J. Adshead",M,173,65
+1028,"Fredua Koranteng "Freddy"" Adu"",M,170,66
+1029,"Carlos Adueza Troll",M,0,0
+1030,"Martha Adusei",F,165,64
+1031,"Aduuchiin Baatarkh",M,185,82
+1032,"Serhiy Mykolaiovych Advena",M,190,82
+1033,"Adyaagiin Jgdernamjil",M,154,52
+1034,"Viktoriya Adyeva",F,160,55
+1035,"Erkin Adylbek uulu",M,190,80
+1036,"Olga Olegovna Adzhigerskaya",F,192,65
+1037,"Rustam Iwanovych Adzhy",M,175,69
+1038,"orbergur Aalsteinsson",M,190,90
+1039,"Silulu A'etonu (-Grey)",F,170,59
+1040,"Urs Aeberhard",M,180,98
+1042,"Adolf Aebersold",M,0,0
+1043,"Regula Aebi (-Anliker)",F,170,58
+1044,"David Aebischer",M,186,85
+1045,"Christian Aebli",M,180,95
+1046,"Klaus Aeffke",M,189,82
+1047,"Carl Bror Emil "Kalle"" Aejemelaeus (-im)"",M,169,0
+1048,"Eduard Aellig",M,181,93
+1049,"Lon Joseph Aelter (-Freddy)",M,0,0
+1050,"Hansjrg Aemisegger",M,175,75
+1051,"Mechelina Agnes Elisabeth "Lies"" Aengenendt"",F,0,0
+1052,"Jasper Aerents",M,191,86
+1053,"Luca Aerni",M,177,80
+1054,"Jean Aerts",M,0,0
+1055,"Katrien Aerts",F,162,51
+1056,"Mario Aerts",M,182,68
+1057,"Sara Aerts",F,182,64
+1058,"Andreas Aeschbach",M,178,67
+1059,"Marianne Aeschbacher",F,166,50
+1060,"Marita Aeschbacher",F,173,64
+1061,"Frdric Charles Aeschlimann",M,0,0
