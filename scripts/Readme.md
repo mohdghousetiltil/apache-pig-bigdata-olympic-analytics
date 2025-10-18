@@ -22,16 +22,3 @@
      pig task2-1.pig  
      pig task2-2.pig
      ```
-
-### Deployment Pipeline Steps
-
-1. **Environment Setup**
-   - SSH into jump host and deploy cluster with `./create_cluster.sh`
-   - Connect to EMR master node
-
-2. **Asset Deployment**
-   - Load CSV files and UDF to HDFS
-   - Transfer Pig scripts to master node
-
-3. **Pipeline Execution**
-   - Run analytics scripts: `pig task1.pig`, `pig task2-1.pig`, `pig task2-2.pig`
